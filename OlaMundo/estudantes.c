@@ -8,6 +8,11 @@ int main() {
   char studentGrade = 'B';
 
   // Print variables
+printf("Testando o editor online do W3School");
+printf("----------------------------------------------");
+printf("----------------------------------------------");
+printf("----------------------------------------------");
+
   printf("Student id: %d\n", studentID);
   printf("Student age: %d\n", studentAge);
   printf("Student fee: %f\n", studentFee);
